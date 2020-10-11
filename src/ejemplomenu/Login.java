@@ -15,6 +15,7 @@ public class Login extends javax.swing.JFrame {
 
     private int intentos = 0; //creamos un atributo para contar los intentos fallidos de login
     int suma = 0;
+    String mensaje = "Hola";
 
     /**
      * Creates new form Login
